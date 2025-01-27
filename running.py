@@ -1,7 +1,7 @@
 from github import Github
 
 # Authenticate using your GitHub personal access token
-ACCESS_TOKEN = "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"  
+ACCESS_TOKEN = ""  
 g = Github(ACCESS_TOKEN)
 
 # Get the repository you want to work with
